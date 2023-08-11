@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a6899f5.css",
+    "main.js": "/static/js/main.b599c0de.js",
+    "static/js/787.d85724d0.chunk.js": "/static/js/787.d85724d0.chunk.js",
+    "static/media/cover_gereja.png": "/static/media/cover_gereja.cfcc4ab78802d6f4a999.png",
+    "static/media/article3.png": "/static/media/article3.01e999b20c41ff207193.png",
+    "static/media/article1.png": "/static/media/article1.24533c5fa0485c6b9e21.png",
+    "static/media/article2.png": "/static/media/article2.ea6539040600de5fb6f9.png",
+    "static/media/all_logo.png": "/static/media/all_logo.bc25a8671c08590b7aa1.png",
+    "static/media/logo_jakomkris.png": "/static/media/logo_jakomkris.8598b63ad6d07cc9b102.png",
+    "static/media/quake.png": "/static/media/quake.c91fe230b8e4636f498f.png",
+    "static/media/loading.gif": "/static/media/loading.803f24369a085e35482e.gif",
+    "static/media/location.png": "/static/media/location.7a3030d62a17ce0ee702.png",
+    "static/media/navbar.png": "/static/media/navbar.fd3ee8803e943c4276a4.png",
+    "index.html": "/index.html",
+    "main.2a6899f5.css.map": "/static/css/main.2a6899f5.css.map",
+    "main.b599c0de.js.map": "/static/js/main.b599c0de.js.map",
+    "787.d85724d0.chunk.js.map": "/static/js/787.d85724d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a6899f5.css",
+    "static/js/main.b599c0de.js"
+  ]
+}
